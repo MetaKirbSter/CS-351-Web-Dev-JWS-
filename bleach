@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1><a href=multipage.html>If you can't drink it, use it</a></h1>
+</head>
+<hr>
+<body>
+<p>Just like the stuff you use for laundry</p>
+</body>
+<table>
+    <tr><a href=multipage.html> Home </a></tr>
+    <tr><a href=water.html> Water </a></tr>
+    <tr><a href=ammonia> Ammonia </a></tr>
+</table>
+
+
+</html>

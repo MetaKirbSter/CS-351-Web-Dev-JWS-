@@ -1,0 +1,101 @@
+/* Reset some default browser styles */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+header {
+    background-color: #614141;
+    color: rgb(255, 255, 255);
+    padding: 20px 0;
+    background-image: url(https://wallpapers.com/images/hd/microsoft-windows-logo-zekyhl4m8b88cb7b.jpg);
+    background-size: cover;
+    background-blend-mode: overlay;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    background-color: rgba(0, 123, 167, 0.5);
+}
+
+.about-me {
+    background-color: #afcbe3;
+    color: rgb(0, 0, 0);
+    padding: 0px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border-radius: 12px; /* rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* subtle shadow */
+}
+
+.projects {
+    background-color: #a5e48d;
+    padding: 10px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border-radius: 16px; /* rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* subtle shadow */
+}
+
+.about-windows {
+    background-color:rgb(233, 21, 84);
+    text-align: center;
+    padding: 1px;
+    padding-left: 15px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    border-radius: 32px;
+}
+
+.about-site {
+    background-color: rgba(255, 255, 255, 0.5); /* subtle overlay */
+    background-blend-mode: overlay;
+    text-align:center;
+    padding: 10px;
+    padding-left: 40px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    border-radius: 8px; /* rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+a {
+    color: #00f;
+}

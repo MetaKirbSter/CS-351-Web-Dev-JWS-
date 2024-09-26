@@ -1,0 +1,57 @@
+body {
+    background-color:rgb(111, 64, 64)
+}
+h1 {
+    color:rgb(255, 255, 255); 
+    padding: 10px; 
+    font-family: Courier; font-size: 210%
+}
+h2 {
+    color:rgb(0, 0, 0); 
+    background: rgb(173, 70, 70);  
+    padding: 10px; 
+    font-family: Courier; 
+    font-size: 160%;
+    text-align: center;
+}
+p {
+    color:rgb(255, 255, 255); 
+    border:rgb(80, 72, 140); 
+    padding: 2px; 
+    font-family: Courier; 
+    font-size: 110%
+}
+li {
+    color:rgb(227, 220, 220); 
+    padding: 5px;
+    font-size: 110%;
+}
+a {
+    color:aliceblue;
+    text-align: center;
+}
+
+header {
+    font-size: 130%;
+}
+
+.title { color: white;
+    background-color:rgb(133, 8, 8);
+    text-align: center;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 12px; /* rounded corners */
+}
+
+.contact { color: beige;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 12px; 
+}
+
+.menu { text-align: center;
+    color:white;
+    border-radius: 12px; /* rounded corners */
+    background-color: rgb(135, 60, 60);
+}

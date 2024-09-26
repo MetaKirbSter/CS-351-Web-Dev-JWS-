@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1><a href=multipage.html>idk man</a></h1>
+</head>
+<table>
+    <tr><a href=multipage.html> Home </a></tr>
+    <tr><a href=bleach> Bleach </a></tr>
+    <tr><a href=water.html> Water </a></tr>
+</table>
+<body>
+
+</body>
+
+</html>
